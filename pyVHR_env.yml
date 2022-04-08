@@ -64,7 +64,7 @@ dependencies:
   - pillow=8.3.2
   - pip=21.3.1
   - pytables=3.6.1
-  - python=3.9.7
+  - python=3.8.13
   - python_abi=3.9
   - pytorch=1.10.0
   - pytorch-mutex=1.0
