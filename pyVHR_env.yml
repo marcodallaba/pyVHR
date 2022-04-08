@@ -1,4 +1,4 @@
-name: pyvhr
+name: pyvhr-hrcnn
 channels:
   - pytorch
   - rapidsai
