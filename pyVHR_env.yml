@@ -16,8 +16,8 @@ dependencies:
   - libuv=1.42.0
   - lzo=2.10
   - numexpr=2.7.3
-  - numpy-1.21.2
-  - numpy-base-1.21.2
+  - numpy=1.21.2
+  - numpy-base=1.21.2
   - pip=21.3.1
   - pytables=3.6.1
   - pytorch=1.10.0
