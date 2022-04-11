@@ -10,7 +10,7 @@ dependencies:
   - blosc=1.21.0
   - bob.blitz=2.0.24 
   - bob.io.video=3.0.5 
-  - cudatoolkit=11.6
+  - cudatoolkit=11.3
   - cusignal=21.08.00
   - docopt=0.6.2
   - libuv=1.42.0
