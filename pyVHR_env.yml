@@ -21,11 +21,11 @@ dependencies:
   - numpy-base=1.21.2
   - pip=21.3.1
   - pytables=3.6.1
-  - pytorch=1.10.0
-  - pytorch-mutex=1.0
+  - pytorch=1.11.0
+  - pytorch-mutex=1p
   - python-lmdb=1.3.0
-  - torchaudio=0.10.0
-  - torchvision=0.11.1
+  - torchaudio=0.11.0
+  - torchvision=0.12.0
   - tzdata=2021e
   - pip:
     - asposestorage==1.0.2
