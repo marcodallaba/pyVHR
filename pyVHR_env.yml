@@ -15,6 +15,7 @@ dependencies:
   - docopt=0.6.2
   - libuv=1.42.0
   - lzo=2.10
+  - mock=4.0.2
   - numexpr=2.7.3
   - numpy=1.21.2
   - numpy-base=1.21.2
@@ -35,7 +36,6 @@ dependencies:
     - ipywidgets==7.6.5
     - lmfit==1.0.3
     - mediapipe==0.8.8.1
-    - mock=4.0.2
     - plotly==5.3.1
     - PySimpleGUI==4.53.0
     - scikit_posthocs==0.6.7
