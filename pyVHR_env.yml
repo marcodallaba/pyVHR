@@ -6,15 +6,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - blosc=1.21.0 
-  - cudatoolkit=11.3
+  - cudatoolkit=11.6
   - cusignal=21.08.00
-  - libuv=1.42.0
-  - lzo=2.10
-  - mock=4.0.2
   - numexpr=2.7.3
-  - numpy=1.21.2
-  - numpy-base=1.21.2
   - pip=21.3.1
   - pytables=3.6.1
   - pytorch=1.10.0
@@ -22,7 +16,6 @@ dependencies:
   - python=3.9.7
   - torchaudio=0.10.0
   - torchvision=0.11.1
-  - tzdata=2021e
   - pip:
     - asposestorage==1.0.2
     - autorank==1.1.1
